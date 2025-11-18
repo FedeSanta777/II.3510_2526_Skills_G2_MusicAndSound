@@ -1,0 +1,6 @@
+<resources>
+    <!-- App theme that hides the action bar (good for Compose) -->
+    <style name="Theme.SkillsExercise" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize colors/fonts if you want -->
+    </style>
+</resources>
